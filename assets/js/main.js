@@ -215,6 +215,7 @@
 					}).trigger('resize.ie-intro-fix');
 				}
 
+			/*
 			// Hide intro on scroll (> small).
 				breakpoints.on('>small', function() {
 
@@ -252,7 +253,15 @@
 					});
 
 			});
+			*/
+			// Hide the intro after scrolling down to the main content.
+			$window.on('scroll.intro resize.intro', function() {
+				if ($window.scrollTop() >= $main.offset().top - 100)
+					$intro.addClass('hidden');
+				else
+					$intro.removeClass('hidden');
+				}).trigger('scroll.intro');
 
-		}
+			}
 
 })(jQuery);
