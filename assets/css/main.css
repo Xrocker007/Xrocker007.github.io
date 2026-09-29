@@ -3286,7 +3286,7 @@ input, select, textarea {
 	#intro {
 		color: #ffffff;
 		/*padding: 8rem 4rem 6rem 4rem ;*/
-		padding: 4rem 4rem 6rem 4rem;
+		padding: 5rem 4rem 6rem 4rem;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3299,14 +3299,14 @@ input, select, textarea {
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
 		flex-direction: column;
-		-moz-justify-content: -moz-flex-start;
+		/*-moz-justify-content: -moz-flex-start;
 		-webkit-justify-content: -webkit-flex-start;
 		-ms-justify-content: -ms-flex-start;
-		justify-content: flex-start;
-		/*-moz-justify-content: -moz-flex-end;
+		justify-content: flex-start;*/
+		-moz-justify-content: -moz-flex-end;
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
-		justify-content: flex-end;*/
+		justify-content: flex-end;
 		-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
@@ -3315,7 +3315,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 50vh;
+		min-height: 60vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3458,7 +3458,7 @@ input, select, textarea {
 
 			#intro {
 				/*padding: 4rem 4rem 2rem 4rem ;*/
-				padding: 2rem 4rem 2rem 4rem ;
+				padding: 3rem 4rem 2rem 4rem ;
 				min-height: 45vh;
 			}
 
@@ -3476,7 +3476,7 @@ input, select, textarea {
 
 			#intro {
 				/*padding: 3rem 2rem 1rem 2rem ;*/
-				padding: 1rem 2rem 1rem 2rem ;
+				padding: 2rem 2rem 1rem 2rem ;
 				min-height: 40vh;
 			}
 

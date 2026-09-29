@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Documents\\Uni\\CMP424\\portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\universityprojects.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:universityprojects.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\gamejams.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gamejams.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\assets\\js\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\generic.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:generic.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\Uni\\CMP424\\portfolio\\elements.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:elements.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\assets\\js\\main.js",
               "RelativeDocumentMoniker": "assets\\js\\main.js",
@@ -42,57 +42,56 @@
               "RelativeToolTip": "assets\\js\\main.js",
               "ViewState": "AgIAAOMAAAAAAAAAAAAkwAgBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-09-28T16:10:07.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T16:10:07.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.css",
               "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\assets\\css\\main.css",
               "RelativeDocumentMoniker": "assets\\css\\main.css",
               "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\assets\\css\\main.css",
               "RelativeToolTip": "assets\\css\\main.css",
-              "ViewState": "AgIAAG4NAAAAAAAAAAAAAJcNAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACQKAAAAAAAAAAAUwE0KAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-09-28T13:14:19.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "generic.html",
-              "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\generic.html",
-              "RelativeDocumentMoniker": "generic.html",
-              "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\generic.html",
-              "RelativeToolTip": "generic.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "universityprojects.html",
+              "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\universityprojects.html",
+              "RelativeDocumentMoniker": "universityprojects.html",
+              "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\universityprojects.html",
+              "RelativeToolTip": "universityprojects.html",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwGUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-23T13:22:41.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "elements.html",
-              "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\elements.html",
-              "RelativeDocumentMoniker": "elements.html",
-              "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\elements.html",
-              "RelativeToolTip": "elements.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYBAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "gamejams.html",
+              "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\gamejams.html",
+              "RelativeDocumentMoniker": "gamejams.html",
+              "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\gamejams.html",
+              "RelativeToolTip": "gamejams.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-23T13:22:39.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Documents\\Uni\\CMP424\\portfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Documents\\Uni\\CMP424\\portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAMYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-23T11:03:42.61Z",
               "EditorCaption": ""

@@ -5,7 +5,9 @@
     "\\assets\\css",
     "\\assets\\js",
     "\\assets\\sass",
+    "\\assets\\sass\\components",
     "\\assets\\sass\\layout"
   ],
+  "SelectedNode": "\\assets\\js\\main.js",
   "PreviewInSolutionExplorer": false
 }
